@@ -17,7 +17,7 @@ ConnectivityXchange is designed to empower AV integrators to seamlessly incorpor
 
 ## Getting Started
 
-To get started, simply clone this repository to your local environment. The codebase is licensed under the GPL-3.0 license, which means you are free to use, modify, and distribute the software as long as your use remains non-profit. For more details, please refer to the [LICENSE](/LICENSE) file.
+To get started, simply clone this repository to your local environment. The codebase is licensed under the GPL-3.0 license, which means you are free to use, modify, and distribute the software as long as your use remains non-profit. For more details, please refer to the [LICENSE](/profile/LICENSE) file.
 
 ## Modifying the Code
 
@@ -27,11 +27,11 @@ ConnectivityXchange encourages AV enthusiasts to modify the code to better suit 
 
 We welcome and value your contributions to improve ConnectivityXchange. If you've developed improvements, bug fixes, or new features, feel free to submit a pull request. Our team will review your changes and, upon acceptance, incorporate them into the main code. We're committed to acknowledging your contributions, and as a token of our gratitude, we'll immortalize your name in the credits as a contributor.
 
-For guidelines on how to contribute, please refer to our [Contribution Guide](contribution-guide.md).
+For guidelines on how to contribute, please refer to our [Contribution Guide](/profile/contribution-guide.md).
 
 ## License
 
-ConnectivityXchange is distributed under the terms of the [GPL-3.0 License](LICENSE).
+ConnectivityXchange is distributed under the terms of the [GPL-3.0 License](/profile/LICENSE).
 
 ---
 
