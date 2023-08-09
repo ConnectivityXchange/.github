@@ -18,9 +18,9 @@ ConnectivityXchange is designed to empower AV integrators to seamlessly incorpor
 
 To get started, simply clone this repository to your local environment. The codebase is licensed under the GPL-3.0 license, which means you are free to use, modify, and distribute the software as long as your use remains non-profit. For more details, please refer to the [LICENSE](/profile/LICENSE) file.
 
-[ConnectivityXchange Control 4 repository](https://github.com/ConnectivityXchange/Control4).
-[ConnectivityXchange Crestron repository](https://github.com/ConnectivityXchange/Crestron).
-[ConnectivityXchange QSC repository](https://github.com/ConnectivityXchange/QSC).
+- [ConnectivityXchange Control 4 repository](https://github.com/ConnectivityXchange/Control4).
+- [ConnectivityXchange Crestron repository](https://github.com/ConnectivityXchange/Crestron).
+- [ConnectivityXchange QSC repository](https://github.com/ConnectivityXchange/QSC).
 
 ## Modifying the Code
 
