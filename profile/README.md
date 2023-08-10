@@ -22,6 +22,7 @@ ConnectivityXchange Repositories
 - [Control 4 repository](https://github.com/ConnectivityXchange/Control4).
 - [Crestron repository](https://github.com/ConnectivityXchange/Crestron).
 - [QSC repository](https://github.com/ConnectivityXchange/QSC).
+- [RTI repository](https://github.com/ConnectivityXchange/RTI).
 
 ## Modifying the Code
 
